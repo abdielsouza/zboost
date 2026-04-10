@@ -1,0 +1,16 @@
+.{
+    .fingerprint = 0x8b3d5f71722b7e16,
+    .name = .zboost,
+    .version = "0.1.0",
+    .description = "A Zig library for various utilities and algorithms.",
+    .license = "MIT",
+    .author = "Abdiel Souza",
+    .repository = "https://github.com/abdielsouza/zboost.git",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "README.md",
+        "LICENSE",
+    },
+}
